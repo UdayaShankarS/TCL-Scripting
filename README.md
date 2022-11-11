@@ -6,3 +6,5 @@ Examples of the TCL Scripts for different purposes are provided here for your re
 If you find the information is useful , please cite as
 
 https://github.com/UdayaShankarS/TCL-Scripting
+
+If there is any errors in the code, please mail to rajkrish18392@gmail.com
