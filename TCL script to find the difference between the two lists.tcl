@@ -42,5 +42,5 @@ if {[llength $a] == [llength $b]} {
       }
   }
 } else {
-    puts "List a and b not of equal length"
+    puts "Lists a and b are different"
 }
