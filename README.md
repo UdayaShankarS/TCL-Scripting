@@ -1,6 +1,19 @@
 # TCL-Scripting
 Examples of the TCL Scripts for different purposes are provided here for your reference
-     A lot of example script to learn and understand TCL scripting/Programing on various topics like strings, list, array, procedures, loop and decision statements are included.
+     A lot of example scripts to learn and understand TCL scripting/Programing on various topics like 
+1. Strings
+2. Lists 
+3. Array
+4. Procedures
+5. Loop Statements 
+6. Decision statements 
+7. Dictionary
+8. File Handling
+9. Regular Expressions & Regular Substitutions.
+10. Namespaces
+11. File Manipulations
+12. Error Handling
+     are included.
 
 
 If you find the information is useful , please cite as
