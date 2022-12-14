@@ -15,6 +15,7 @@ Examples of the TCL Scripts for different purposes are provided here for your re
 12. Error Handling
      are included.
 
+A folder containing TCL Scripts for VLSI Physical Design is also included in this repository.
 
 If you find the information is useful , please cite as
 
