@@ -1,6 +1,6 @@
 # TCL-Scripting
 Examples of the TCL Scripts for different purposes are provided here for your reference.
-     A lot of example scripts to learn and understand TCL scripting/Programing on various topics like 
+     A lot of example scripts to learn and understand TCL scripting/Programing on various following topics are included. 
 1. Strings
 2. Lists 
 3. Array
@@ -13,7 +13,7 @@ Examples of the TCL Scripts for different purposes are provided here for your re
 10. Namespaces
 11. File Manipulations
 12. Error Handling
-     are included.
+     
 
 A folder containing TCL Scripts for VLSI Physical Design is also included in this repository.
 
