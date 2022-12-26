@@ -1,5 +1,5 @@
 # TCL-Scripting
-Examples of the TCL Scripts for different purposes are provided here for your reference
+Examples of the TCL Scripts for different purposes are provided here for your reference.
      A lot of example scripts to learn and understand TCL scripting/Programing on various topics like 
 1. Strings
 2. Lists 
